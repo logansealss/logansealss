@@ -4,6 +4,10 @@
 [![GMail](https://img.shields.io/badge/-richard.logan.seals@gmail.com-cc3a2f?logo=gmail&logoColor=white)](mailto:richard.logan.seals@gmail.com)
 [![AngelList](https://img.shields.io/badge/-loganseals-000000?logo=angellist)](https://angel.co/u/loganseals)
 
+Whether it was playing chess or solving a Rubik’s cube, I have always enjoyed logical thinking and problem solving, so I am happy that I am able to apply the same skills with software engineering. 
+
+In my free time I enjoy getting outside to touch grass 🌿, walk 🚶‍♂️, and hike ⛰️.
+
 ------------------
 
 ### Technologies Used:
@@ -49,7 +53,7 @@
 <summary>Task Maker</summary>
 <br>
   
-[Task Maker](https://large-logan.herokuapp.com/) is a task and time management clone of Remember the Milk that allows users to manage and organize tasks.
+[Task Maker](https://task-maker-jjl.herokuapp.com) is a task and time management clone of Remember the Milk that allows users to manage and organize tasks.
   
 ![Screenshot 2022-11-09 125347](https://user-images.githubusercontent.com/106628994/201001061-a4e09027-0070-49a9-a97d-dbe3ae103b9d.png)
 
