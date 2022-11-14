@@ -77,6 +77,7 @@ In my free time I enjoy getting outside to touch grass 🌿, walk 🚶‍♂️,
   
   [![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logansealss&show_icons=true&theme=dark)](https://github.com/logansealss/github-readme-stats) ![Leetcode Stats](https://leetcard.jacoblin.cool/logansealss?height=195&hide=ranking&theme=dark)
 
+
 </div>
 
 <!---
